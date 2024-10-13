@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/myproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myproject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/project_zim/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/project_zim/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/project_zim/build" />
+      <excludeFolder url="file://$MODULE_DIR$/todo_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/todo_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/todo_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_id_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_id_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_id_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/abohawa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/abohawa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/abohawa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

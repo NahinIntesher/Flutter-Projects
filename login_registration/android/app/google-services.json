@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1090234148629",
+    "project_id": "uiu-question-bank-test",
+    "storage_bucket": "uiu-question-bank-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090234148629:android:211847fe74c86549726b1c",
+        "android_client_info": {
+          "package_name": "com.example.login_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090234148629-kd9ddsecb6i1rv679ol0h5ja2u5on851.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_registration",
+            "certificate_hash": "8a2a9f9e1c3c791b86fc2c2d7c662d20f99a1095"
+          }
+        },
+        {
+          "client_id": "1090234148629-u9jgs9t72ieivnbeetenjfc2c4pnj2k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWSq7KnwkMJpsfDOc3X3qL22QgWqI0K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090234148629-u9jgs9t72ieivnbeetenjfc2c4pnj2k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090234148629-j5kpbka5fqol1507sdrfb5rssv041u90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginRegistration"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
